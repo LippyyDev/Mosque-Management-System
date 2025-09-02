@@ -1,0 +1,5 @@
+# Record Whiskey Txt
+
+[2026-02-20 07:20:17] sistem berjalan normal
+[2026-02-20 07:20:17] validasi input: OK
+[2026-02-20 07:20:17] sesi ditutup dengan bersih
